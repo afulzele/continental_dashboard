@@ -28,7 +28,7 @@
     "chartjs-plugin-datalabels": "^0.6.0",
     "core-js": "^2.5.4",
     "d3": "^5.9.2",
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.11.3",
     "datatables.net-bs4": "^1.10.19",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
